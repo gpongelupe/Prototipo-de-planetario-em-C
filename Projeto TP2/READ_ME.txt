@@ -1,5 +1,5 @@
 Trabalho Pratico 2 de Computação Grafica
-Aluno: Gabriel POngelupe G de Oliveira
+Aluno: Gabriel Pongelupe G de Oliveira
 
 
 Para executar o programa propriamente basta abrir o arquivo executavel na primeira pasta ou 
@@ -10,7 +10,7 @@ Todos os planetas estão originalmente em seus tamanhos e distancias proporciona
 
 //Planetario
 
-funções implementadas | Teclas
+Funções implementadas | Teclas
 
 Mudar visão           | ESPAÇO
 
